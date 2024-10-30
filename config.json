@@ -1,0 +1,18 @@
+{
+    "output_path": "./output/output.mp3",
+    "decibels": -9,
+    "target_length": 36000,
+    "audio": [
+      {
+        "filename": "./data/sounds/baby_crying.mp3",
+        "type": "noise",
+        "relative_loudness": 0.35
+      },
+      {
+        "filename": "./data/sounds/meow_mix_song.mp3",
+        "type": "music",
+        "relative_loudness": 1
+      }
+    ]
+  }
+  

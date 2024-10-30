@@ -1,0 +1,10 @@
+# Ignore large files in the output directory
+/output/meow_mix_baby_crying_loop.mp3
+/output/video.mp4
+
+# Ignore Python cache files
+/src/__pycache__/
+*.py[cod]
+
+# Ignore virtual environment folder
+venv/
